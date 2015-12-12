@@ -1,0 +1,22 @@
+{
+  "name": "new-tea-day.github.io",
+  "homepage": "https://github.com/TETRA2000/new-tea-day.github.io",
+  "authors": [
+    "TETRA2000 <sagittariusm25@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "l20n": "~3.4.1"
+  }
+}
