@@ -1,0 +1,4 @@
+bower_components/*/*
+!bower_components/*/dist
+!bower_components/*/build
+!bower_components/urijs/src
